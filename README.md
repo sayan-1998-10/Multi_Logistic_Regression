@@ -15,3 +15,6 @@ For Fourth model, positive class-4,negative class-(1,2,3)
 
 We then choose the class based on the probability of each of the models. 
 Thus if first model has highest probability then example belongs to the first class.
+
+
+***The data has been provided in a .mat file. Use scipy.sio to load the data into your code.See the code that I have provided.****
